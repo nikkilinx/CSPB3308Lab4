@@ -1,0 +1,6 @@
+Git Resources
+
+Git Book: https://git-scm.com/book/en/v2
+
+Basic Git commands: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
